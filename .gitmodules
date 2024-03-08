@@ -1,0 +1,3 @@
+[submodule "folder2/submod1"]
+	path = folder2/submod1
+	url = https://github.com/victorjesusamoresmedianero/submod1.git
